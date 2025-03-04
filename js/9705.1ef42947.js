@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_emo_back"]=self["webpackChunkvue_emo_back"]||[]).push([[9705],{9705:function(e,t,a){a.r(t),a.d(t,{default:function(){return l}});var r=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{attrs:{id:"chatroom"}},[a("el-card",{staticStyle:{margin:"8px"},attrs:{shadow:"always","body-style":"0px"}},[e._v(" chatroom page 计划开发中 ")])],1)},c=[],n={name:"ChatRoom"},o=n,s=a(1001),u=(0,s.Z)(o,r,c,!1,null,"66fc7ff4",null),l=u.exports}}]);
+//# sourceMappingURL=9705.1ef42947.js.map

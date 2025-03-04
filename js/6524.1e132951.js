@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_emo_back"]=self["webpackChunkvue_emo_back"]||[]).push([[6524],{6524:function(t,e,r){r.r(e),r.d(e,{default:function(){return c}});var s=function(){var t=this,e=t.$createElement,r=t._self._c||e;return r("div",{staticClass:"user_authority_distribute"},[r("el-card",{staticStyle:{margin:"8px"},attrs:{shadow:"always","body-style":"0px"}},[t._v(" user_authority_distribute page 计划开发中 ")])],1)},u=[],a={name:"UserAuthorityDistribute"},i=a,n=r(1001),l=(0,n.Z)(i,s,u,!1,null,"44118fd9",null),c=l.exports}}]);
+//# sourceMappingURL=6524.1e132951.js.map
